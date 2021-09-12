@@ -2,7 +2,7 @@
 Summer Olympics Data Analysis Assignment
 # ETG-Summer-Olympics-Data-Analysis-Assignment-2
 This repository is having all the data within csv files during ETG AI/ML internship.
-# Analysis data of Summer-Olympics (formate-csv)and also plot a bar graph accoring to given question.
+# Analysis data of Summer-Olympics (formate-csv)and also plot a bar graph according to given question.
 
 # Question and Images solution. 
 ## 1. In how many cities Summer Olympics is held so far?
