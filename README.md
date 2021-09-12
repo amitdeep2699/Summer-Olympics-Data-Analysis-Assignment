@@ -20,6 +20,6 @@ This repository is having all the data within csv files during ETG AI/ML interns
 ## 7. Which event is most popular in terms on number of players? (Top 5)
 ![Q-7 Screenshot 2021-09-11 211500](https://user-images.githubusercontent.com/89854672/132972325-4e08358e-fa8b-4fb3-8466-ef09bfb8b32c.png)
 ## 8. Which sport is having most female Gold Medalists? (Top 5)
-![Q-8 Screenshot 2021-09-11 211621](https://user-images.githubusercontent.com/89854672/132972329-deffb5f3-2b3a-4b2a-a7ee-dfa958a825f8.png
+![Q-8 Screenshot 2021-09-11 211621](https://user-images.githubusercontent.com/89854672/132972329-deffb5f3-2b3a-4b2a-a7ee-dfa958a825f8.png)
 
 
